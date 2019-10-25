@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="714dc420-7a3b-4fa4-bc84-ba33051a7e86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dropbox_core_dropbox_core_sdk_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_softverskekomponente_File_Storage_Spec_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lingala_zip4j_zip4j_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DropboxStorage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bogdan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dva/asdasd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glupanFolder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jedan/dssdf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marko.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nesko.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neskovFolder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novitet/novitet2/asd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proba.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probaFolder.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probatest3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probavoda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/DropboxDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/DropboxFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/DropboxDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/DropboxFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utilities/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voda.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SVxv7UeuKFxGtuaEStml6e1qps" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="714dc420-7a3b-4fa4-bc84-ba33051a7e86" name="Default Changelist" comment="" />
+      <created>1571662791364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571662791364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
